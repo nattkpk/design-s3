@@ -1,0 +1,9 @@
+import{c,o as i,a as l}from"./vue.esm-bundler-uGv5KqEh.js";import{_ as d}from"./_plugin-vue_export-helper-DlAUqK2U.js";const n={},p={class:"w-[358px] h-40 p-4 bg-white rounded-lg shadow justify-end items-center gap-2 inline-flex"},m=l('<div class="grow shrink basis-0 h-32 justify-start items-start flex"><div class="w-[136px] self-stretch pr-4 border-r border-neutral-200 justify-start items-start flex"><img class="w-[120px] h-[120px]" src="https://via.placeholder.com/120x120"></div><div class="grow shrink basis-0 pl-4 flex-col justify-start items-start inline-flex"><div class="h-12 self-stretch text-black text-base font-normal font-noto leading-normal"> โปรโมชั่นพิเศษ<br></div><div class="self-stretch text-neutral-400 text-[10px]/[16px] font-normal font-noto">มูลค่า : 30%<br>รหัสคูปอง : 123FB456789<br>เริ่มต้น : 01/10/65 <br>หมดอายุ : 31/10/65<br>แลก : 20 คะแนน</div></div></div>',1),u=[m];function f(s,x){return i(),c("div",p,u)}const a=d(n,[["render",f]]);n.__docgenInfo={displayName:"mycoupon",description:"",tags:{},sourceFiles:["/Users/nattkpk/S3Code/GitHub/design-s3/src/components/Card/mycoupon.vue"]};const h={title:"Components/Cards/mycoupon",component:a,argTypes:{outlined:{control:"boolean"},thai:{control:"boolean"}}},g=s=>({components:{Button:a},setup:()=>({args:s}),template:'<Button v-bind="args">{{ args.default }}</Button>'}),t=g.bind({});t.args={default:"Register",outlined:!1};var e,o,r;t.parameters={...t.parameters,docs:{...(e=t.parameters)==null?void 0:e.docs,source:{originalSource:`args => ({
+  components: {
+    Button
+  },
+  setup: () => ({
+    args
+  }),
+  template: '<Button v-bind="args">{{ args.default }}</Button>'
+})`,...(r=(o=t.parameters)==null?void 0:o.docs)==null?void 0:r.source}}};const v=["Primary"];export{t as Primary,v as __namedExportsOrder,h as default};

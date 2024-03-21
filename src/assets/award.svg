@@ -1,0 +1,11 @@
+<svg width="auto" height="auto" viewBox="" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="icon/award">
+        <path id="vector"
+            d="M10 15C10 17.6522 11.0536 20.1957 12.9289 22.0711C14.8043 23.9464 17.3478 25 20 25C22.6522 25 25.1957 23.9464 27.0711 22.0711C28.9464 20.1957 30 17.6522 30 15C30 12.3478 28.9464 9.8043 27.0711 7.92893C25.1957 6.05357 22.6522 5 20 5C17.3478 5 14.8043 6.05357 12.9289 7.92893C11.0536 9.8043 10 12.3478 10 15Z"
+            stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path id="vector_2"
+            d="M20.0017 25.0619L25.934 35L28.7222 29.545L35 29.9364L29.0677 20M10.9323 20L5 29.9381L11.2778 29.545L14.066 34.9983L19.9983 25.0619"
+            stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <rect id="vector_3" x="16.6667" y="11.6667" width="6.66667" height="6.66667" rx="3.33333" fill="white" />
+    </g>
+</svg>
