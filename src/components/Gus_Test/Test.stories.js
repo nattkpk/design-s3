@@ -1,7 +1,7 @@
-import View from "./Card2.vue";
+import View from "./Test.vue";
 
 export default {
-  title: "Components/as/as/as/as/sa/as/as/as/as/sa/sa/card2",
+  title: "Components/Gus/Practice",
   component: View,
 };
 const Template = () => ({

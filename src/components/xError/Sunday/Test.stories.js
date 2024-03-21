@@ -1,7 +1,7 @@
 import View from "./Test.vue";
 
 export default {
-  title: "Components/Test",
+  title: "Components/Test/2",
   component: View,
 };
 const Template = () => ({

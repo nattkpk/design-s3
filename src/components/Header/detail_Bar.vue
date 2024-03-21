@@ -6,7 +6,7 @@
       <div class="w-6 h-6 relative">
         <img src="../../assets/back_arrow.svg "/>
       </div>
-      <div class="text-center text-white text-xl/6  font-normal font-noto ">รายละเอียดสิทธิ์</div>
+      <div class="text-center text-white text-xl/6  font-bold font-noto ">รายละเอียดสิทธิ์</div>
     </div>
     <div class="grow shrink basis-0 text-right text-white text-lg/6 font-normal font-noto ">ไทย / EN</div>
     <div class="w-14 self-stretch bg-white justify-center items-center flex">

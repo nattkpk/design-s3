@@ -31,7 +31,7 @@
 import Navbar from "./Navbar.vue";
 
 export default {
-  title: "Components/jksedlf;jskal;oed/Navbar",
+  title: "Components/InComing/Navbar",
   component: Navbar,
 };
 

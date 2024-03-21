@@ -1,7 +1,7 @@
 import View from "./Card.vue";
 
 export default {
-  title: "Components/jksedlf;jskal;oed/card",
+  title: "Components/InComing/card",
   component: View,
 };
 const Template = () => ({

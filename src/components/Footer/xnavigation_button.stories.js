@@ -1,10 +1,10 @@
-import View from "./Button.vue";
-import NavbarComponent from "./Navbar.vue";
+import View from "./navigation_button.vue";
+import NavbarComponent from "./navigation_bar.vue";
 
 export default {
-  title: "Components/Footer/navButton",
-  // Only one component should be defined here, not both View and Navbar
-  component: View, // Assuming View is the default component to be rendered
+  title: "Components/Footer/navigation_button",
+
+  component: View, 
   argTypes: {
     page: {
       control: {
@@ -17,7 +17,7 @@ export default {
 };
 
 const Template = (args, { argTypes }) => ({
-  components: { NavbarComponent }, // Renamed to avoid conflict
+  components: { NavbarComponent }, 
   props: Object.keys(argTypes),
   template: '<NavbarComponent v-bind="$props" @change="change"/>',
 });
@@ -44,5 +44,4 @@ export const ListPage = {
   },
 };
 
-// Bind the Template to Navbar component, not to any of the ProfilePage, CouponsPage, or ListPage
 export const Navbar = Template.bind({});

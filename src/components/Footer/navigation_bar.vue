@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-import Button from "./Button.vue";
+import Button from "./navigation_button.vue";
 import { ref } from 'vue';
 
 const activeButton = ref(1);

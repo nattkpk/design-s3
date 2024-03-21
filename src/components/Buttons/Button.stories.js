@@ -1,7 +1,7 @@
-import Button from "./privilege.vue";
+import Button from "./Button.vue";
 
 export default {
-  title: "Components/Cards/privilege",
+  title: "Components/Buttons/Button",
   component: Button,
   argTypes: {
     outlined: { control: "boolean" },
@@ -21,5 +21,8 @@ Primary.args = {
   outlined: false,
 };
 
-
-
+export const Outlined = Template.bind({});
+Outlined.args = {
+  ...Primary.args,
+  outlined: true,
+};

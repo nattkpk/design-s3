@@ -9,7 +9,7 @@
                 </div>
                 <div class="mt-[24px] px-4">
                     <div class="text-lg/6 text-[#274384]">เงื่อนไขการใช้คูปอง</div>
-                    
+
                     <ul class="list-disc mt-[8px] text-4/5 ml-[24px] ">
                         <li>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et
@@ -33,9 +33,9 @@
 
 <script setup>
 
-import Header from '.././Header/detail.vue';
-import Card from '.././Card/detail.vue';
-import Button from '../Button.vue';
+import Header from '../../Header/detail_Bar.vue';
+import Card from '../../Cards/get_coupon.vue';
+import Button from '../../Buttons/Button.vue';
 
 </script>
 

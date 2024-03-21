@@ -1,7 +1,7 @@
 import View from "./Button.vue";
 
 export default {
-  title: "Components/jksedlf;jskal;oed/button",
+  title: "Components/InComing/button",
   component: View,
   argTypes: {
     active: { control: "boolean" },
