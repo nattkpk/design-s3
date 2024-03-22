@@ -3,8 +3,8 @@
         <div class="relative">
             <Header />
             <div class="flex absolute -bottom-12 w-full justify-evenly z-20">
-                <Button />
-                <Button />
+                <Button  :my-coupons="false" :active="false" />
+                <Button  :my-coupons="true" :active="true"  />
             </div>
 
         </div>
