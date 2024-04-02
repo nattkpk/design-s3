@@ -1,7 +1,7 @@
-import View from "./Test.vue";
+import View from "./get_coupon.vue";
 
 export default {
-  title: "Components/Gus/Practice",
+  title: "Components/Popup/get_coupon",
   component: View,
 };
 const Template = () => ({
